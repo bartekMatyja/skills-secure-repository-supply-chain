@@ -20,5 +20,8 @@
     "minimist": "^1.2.8",
     "ora": "^4.0.4",
     "request-promise": "^4.2.5"
+  },
+  "overrides": {
+    "uuid": "^14.0.0"
   }
 }
